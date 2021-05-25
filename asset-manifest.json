@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/desafio-pagseguro/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/desafio-pagseguro/static/js/main.dfe51684.chunk.js",
+    "main.js.map": "/desafio-pagseguro/static/js/main.dfe51684.chunk.js.map",
+    "runtime-main.js": "/desafio-pagseguro/static/js/runtime-main.cbf58435.js",
+    "runtime-main.js.map": "/desafio-pagseguro/static/js/runtime-main.cbf58435.js.map",
+    "static/js/2.3e130de8.chunk.js": "/desafio-pagseguro/static/js/2.3e130de8.chunk.js",
+    "static/js/2.3e130de8.chunk.js.map": "/desafio-pagseguro/static/js/2.3e130de8.chunk.js.map",
+    "static/js/3.05d63d53.chunk.js": "/desafio-pagseguro/static/js/3.05d63d53.chunk.js",
+    "static/js/3.05d63d53.chunk.js.map": "/desafio-pagseguro/static/js/3.05d63d53.chunk.js.map",
+    "index.html": "/desafio-pagseguro/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/desafio-pagseguro/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3e130de8.chunk.js.LICENSE.txt": "/desafio-pagseguro/static/js/2.3e130de8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/desafio-pagseguro/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbf58435.js",
+    "static/js/2.3e130de8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.dfe51684.chunk.js"
+  ]
+}
